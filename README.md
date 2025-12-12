@@ -77,6 +77,7 @@ jupyter notebook "Fake-Reviews-Detection-NLP.ipynb"
 ---
 
 ## 👩‍💻 Author  
+**Sailaja Morrennagari**
 
 ## 🌐 Connect With Me
 
